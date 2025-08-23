@@ -1,7 +1,6 @@
 # Hi, I'm Solmaz Sahmani 👋
 
-👷‍♂️ I'm a Backend Developer with a strong foundation in Python, Django, and Flask, specializing in building scalable, secure, and efficient server-side applications. My experience spans across working with PostgreSQL for robust data storage, Docker for containerized deployments, and Linux environments for reliable development and deployment workflows. I'm deeply interested in Machine Learning, Computer Vision, and working with frameworks like PyTorch, OpenCV, and Scikit-Learn. I enjoy discovering patterns in data and building intelligent systems that solve real-world problems.
-
+👷‍♂️ REST Framework, Swagger, Redis, Celery, Docker, Python, PostgreSQL, and Git. Skilled in algorithms, problem solving, Linux, networking (Network+), machine learning, and computer vision. Enthusiastic about learning new technologies and collaborating on challenging projects. Always eager to grow and contribute effectively to a team.
 ## 💻 Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
