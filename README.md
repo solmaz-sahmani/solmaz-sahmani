@@ -30,9 +30,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=solmaz-sahmani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=solmaz-sahmani&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Watch my contribution graph get eaten by the snake 🐍
-
-<img src="https://github.com/solmaz-sahmani/solmaz-sahmani/blob/d5e786fd5f9c224504ec91655e27f8c8ec9bb44d/github-contribution-grid-snake.svg" />
 
 <!--
 **solmaz-sahmani/solmaz-sahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
