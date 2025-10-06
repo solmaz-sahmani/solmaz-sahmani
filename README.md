@@ -24,6 +24,12 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:solmaz.sahmani@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solmaz-sahmani/)
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=solmaz-sahmani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=solmaz-sahmani&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=solmaz-sahmani&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <!--
 **solmaz-sahmani/solmaz-sahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
