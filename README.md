@@ -26,9 +26,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=solmaz-sahmani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=solmaz-sahmani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=solmaz-sahmani&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![SolmazSahmani's GitHub stats](https://github-readme-stats.vercel.app/api?username=solmaz-sahmani&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 
 <!--
