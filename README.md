@@ -1,6 +1,6 @@
-# Hi, I'm Solmaz Sahmani 👋
+<!--# Hi, I'm Solmaz Sahmani 👋
 
-👷‍♂️ Passionate Backend Developer with solid experience in Django, Django REST Framework, Swagger, Redis, Celery, Docker, Python, PostgreSQL, and Git. Skilled in algorithms, problem solving, Linux, networking (Network+), machine learning, and computer vision. Enthusiastic about learning new technologies and collaborating on challenging projects. Always eager to grow and contribute effectively to a team.
+👷‍♂️-->
 
 ## 💻 Technical Skills
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white)
