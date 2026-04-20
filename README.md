@@ -13,11 +13,9 @@
 ![Register Level Programming](https://img.shields.io/badge/Register_Level_Programming-0066CC?style=flat)
 ![Bare Metal Programming](https://img.shields.io/badge/Bare_Metal_Programming-444444?style=flat)
 ![Driver Development](https://img.shields.io/badge/Driver_Development-8E44AD?style=flat)
-![Low Level Programming](https://img.shields.io/badge/Low_Level_Programming-2C3E50?style=flat)
 ![Memory Mapped IO](https://img.shields.io/badge/Memory_Mapped_IO-5C6BC0?style=flat)
 ![Interrupt Handling](https://img.shields.io/badge/Interrupt_Handling-FF7043?style=flat)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00599C?style=flat)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=flat)
 ![HAL](https://img.shields.io/badge/STM32_HAL-03234B?style=flat)
 ![CMSIS](https://img.shields.io/badge/ARM_CMSIS-0091BD?style=flat&logo=arm&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-555555?style=flat)
@@ -25,6 +23,8 @@
 ![I2C](https://img.shields.io/badge/I2C-555555?style=flat)
 ![GPIO](https://img.shields.io/badge/GPIO-4CAF50?style=flat)
 <!--![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=flat)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=flat)
+![Low Level Programming](https://img.shields.io/badge/Low_Level_Programming-2C3E50?style=flat)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)-->
 
 
