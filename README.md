@@ -33,8 +33,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solmaz-sahmani/)
 
 
-## 📊 GitHub Stats:
-![SolmazSahmani's GitHub stats](https://github-readme-stats.vercel.app/api?username=solmaz-sahmani&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<!--## 📊 GitHub Stats:
+![SolmazSahmani's GitHub stats](https://github-readme-stats.vercel.app/api?username=solmaz-sahmani&show_icons=true&theme=radical&include_all_commits=true&count_private=true)-->
 
 
 <!--
