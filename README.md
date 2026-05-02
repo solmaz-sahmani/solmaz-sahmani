@@ -13,8 +13,6 @@
 ![Register Level Programming](https://img.shields.io/badge/Register_Level_Programming-0066CC?style=flat)
 ![Bare Metal Programming](https://img.shields.io/badge/Bare_Metal_Programming-444444?style=flat)
 ![Driver Development](https://img.shields.io/badge/Driver_Development-8E44AD?style=flat)
-![Memory Mapped IO](https://img.shields.io/badge/Memory_Mapped_IO-5C6BC0?style=flat)
-![Interrupt Handling](https://img.shields.io/badge/Interrupt_Handling-FF7043?style=flat)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00599C?style=flat)
 ![HAL](https://img.shields.io/badge/STM32_HAL-03234B?style=flat)
 ![CMSIS](https://img.shields.io/badge/ARM_CMSIS-0091BD?style=flat&logo=arm&logoColor=white)
