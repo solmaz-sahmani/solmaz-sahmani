@@ -10,7 +10,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Register Level Programming](https://img.shields.io/badge/Register_Level_Programming-0066CC?style=flat)
 ![Bare Metal Programming](https://img.shields.io/badge/Bare_Metal_Programming-444444?style=flat)
 ![Driver Development](https://img.shields.io/badge/Driver_Development-8E44AD?style=flat)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00599C?style=flat)
